@@ -1,25 +1,9 @@
-# Nuxt Template (Better Auth + Drizzle + SQLite)
+# LeadWise Foundation: AI-Driven Mentorship Platform
 
-A modern, production-ready Nuxt 4 template featuring a robust authentication system, ORM integration, and a clean UI foundation.
+## Project Overview
+AI-Driven Mentorship Platform – New Project
 
-## Features
-
-- **Nuxt 4**: The latest and greatest from the Nuxt team.
-- **Better Auth**: Comprehensive authentication with **Email OTP** support.
-- **Drizzle**: Type-safe ORM for interacting with the database.
-- **SQLite**: Lightweight, zero-configuration database, ideal for development and small-to-medium projects.
-- **Nuxt UI v4**: Beautiful, accessible, and customizable UI components built with Tailwind CSS.
-- **Nodemailer**: Pre-configured for sending verification emails via Gmail.
-- **Vitest**: A ready-to-run testing baseline with an example component test. See [Testing](#testing).
-
-## Stack
-
-- **Framework**: [Nuxt](https://nuxt.com/)
-- **Auth**: [Better Auth](https://www.better-auth.com/)
-- **ORM**: [Drizzle](https://orm.drizzle.team/)
-- **Database**: [SQLite](https://sqlite.org/)
-- **UI Framework**: [Nuxt UI](https://ui.nuxt.com/)
-- **Email**: [Nodemailer](https://nodemailer.com/)
+LeadWise Foundation has built a mentorship platform using Google Cloud technologies, including Gemini AI, Firebase, and cloud-native services, to transform mentorship engagement and learning progress into structured workforce development insights.
 
 ## Getting Started
 
